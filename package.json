@@ -1,0 +1,12 @@
+{
+  "name": "request-header-parser",
+  "version": "1.0.0",
+  "description": "Request header parser microservice for fCC back end web development certificate",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js"
+  },
+  "author": "mtroiani",
+  "license": "MIT"
+}
